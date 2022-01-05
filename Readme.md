@@ -1,6 +1,6 @@
 # Revengeshogi
 
-[![Revengeshogi](https://github.com/SriMethan/Revengeshogi/actions/workflows/windows-build.yml/badge.svg)](https://github.com/SriMethan/Revengeshogi/actions/workflows/windows-build.yml)
+[![Revengeshogi (Windows)](https://github.com/SriMethan/revengeshogi/actions/workflows/windows-build.yml/badge.svg)](https://github.com/SriMethan/revengeshogi/actions/workflows/windows-build.yml)
 [![Python Build](https://github.com/SriMethan/Revengeshogi/actions/workflows/python-build.yml/badge.svg)](https://github.com/SriMethan/Revengeshogi/actions/workflows/python-build.yml)
 
 
