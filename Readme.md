@@ -1,6 +1,8 @@
 # Revengeshogi
 
+[![Revengeshogi](https://github.com/SriMethan/Revengeshogi/actions/workflows/windows-build.yml/badge.svg)](https://github.com/SriMethan/Revengeshogi/actions/workflows/windows-build.yml)
 [![Python Build](https://github.com/SriMethan/Revengeshogi/actions/workflows/python-build.yml/badge.svg)](https://github.com/SriMethan/Revengeshogi/actions/workflows/python-build.yml)
+
 
 My attempt at creating a USI Shogi Engine in python using [python-shogi](https://github.com/gunyarakun/python-shogi).
 
