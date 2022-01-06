@@ -10,7 +10,7 @@
 
 import logging
 import shogi
-import core
+import main
 import sys
 
 logger = logging.getLogger(__name__)
